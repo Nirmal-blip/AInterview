@@ -7,7 +7,8 @@
   "scripts": {
     "server": "nodemon backend/server.js",
     "start": "node backend/server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "build": "vite build"
   },
   "author": "",
   "license": "ISC",
@@ -41,5 +42,8 @@
     "react-dom": "^17.0.2",
     "socket.io": "^4.8.1",
     "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
   }
 }
