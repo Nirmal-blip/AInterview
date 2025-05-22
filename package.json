@@ -8,7 +8,9 @@
     "server": "nodemon backend/server.js",
     "start": "node backend/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-     "build": "vite build"
+     "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "author": "",
   "license": "ISC",
