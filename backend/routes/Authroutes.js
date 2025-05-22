@@ -1,0 +1,12 @@
+import express from 'express';
+import { CheckMail, login, logout, ResetPassword, SendOTP, SignUp, StudentLogin, VerifyOTP } from '../controllers/AuthController.js';
+const router=express.Router();
+router.post('/signup', SignUp);
+router.post('/login', login);
+router.post('/student-login',StudentLogin);
+router.post('/check-email',CheckMail);
+router.post('/logout',logout);
+router.post('/reset-password',ResetPassword);
+router.post('/send-otp',SendOTP);
+router.post('/verify-otp',VerifyOTP);;
+export default router;

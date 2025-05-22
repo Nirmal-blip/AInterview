@@ -1,0 +1,55 @@
+Question,Answer,Difficulty
+What is a neural network?,A neural network is a series of algorithms...,Medium
+Explain overfitting in machine learning.,Overfitting occurs when a model learns the training data too well...,Hard
+What is supervised learning?,Supervised learning is a type of machine learning...,Easy
+What are the differences between classification and regression?,"Classification predicts discrete labels, while regression predicts continuous values.",Medium
+Explain the bias-variance tradeoff.,The bias-variance tradeoff refers to the balance...,Hard
+What is gradient descent?,Gradient descent is an optimization algorithm...,Medium
+What is the purpose of cross-validation?,Cross-validation is used to evaluate the predictive performance...,Easy
+What are convolutional neural networks used for?,Convolutional neural networks are used for image and video recognition...,Medium
+Explain the concept of one-hot encoding.,One-hot encoding is a method for converting categorical data...,Easy
+What is the difference between bagging and boosting?,"Bagging combines predictions of multiple models, while boosting improves weak models.",Hard
+What is a confusion matrix?,A confusion matrix is a performance measurement tool for classification models.,Easy
+What is the difference between Type I and Type II errors?,"Type I error is a false positive, while Type II error is a false negative.",Medium
+Define precision and recall.,"Precision is the ratio of true positives to total predicted positives, recall is the ratio of true positives to actual positives.",Medium
+"What is F1 score, and why is it useful?",F1 score is the harmonic mean of precision and recall.,Hard
+Explain the concept of feature selection.,Feature selection identifies the most relevant features...,Medium
+What is a random forest?,Random forest is an ensemble of decision trees...,Medium
+Explain the term 'ensemble learning'.,Ensemble learning combines multiple models to improve performance...,Medium
+What is the Curse of Dimensionality?,The Curse of Dimensionality refers to problems arising with high-dimensional data...,Hard
+What is principal component analysis (PCA)?,Principal component analysis reduces dimensionality...,Hard
+What is a support vector machine (SVM)?,Support vector machine is a supervised learning model...,Medium
+What are the advantages of using k-nearest neighbors (KNN)?,KNN is simple and effective for small datasets...,Easy
+What is a recommender system?,A recommender system predicts user preferences...,Easy
+What are activation functions in neural networks?,Activation functions introduce non-linearities...,Medium
+What is the vanishing gradient problem?,The vanishing gradient problem occurs in deep networks...,Hard
+Explain transfer learning.,Transfer learning leverages pre-trained models...,Medium
+What is reinforcement learning?,Reinforcement learning involves learning from rewards...,Hard
+What is the difference between batch gradient descent and stochastic gradient descent?,"Batch gradient descent uses all data, stochastic uses one sample...",Medium
+What is the significance of the learning rate in training models?,Learning rate controls the step size in optimization...,Medium
+What are generative adversarial networks (GANs)?,Generative adversarial networks are used for data generation...,Hard
+What is a Markov Decision Process (MDP)?,A Markov Decision Process models decision-making...,Hard
+Explain the term 'dropout' in deep learning.,Dropout is a regularization technique...,Medium
+What is hyperparameter tuning?,Hyperparameter tuning optimizes model parameters...,Medium
+What is the difference between parametric and non-parametric models?,"Parametric models have fixed parameters, non-parametric do not...",Hard
+What is L1 and L2 regularization?,"L1 regularization encourages sparsity, L2 reduces overfitting...",Medium
+Explain the concept of early stopping in machine learning.,Early stopping prevents overfitting during training...,Medium
+"What is data augmentation, and why is it used?",Data augmentation increases dataset size by transformations...,Easy
+What is the difference between precision and specificity?,"Precision relates to true positives, specificity relates to true negatives...",Medium
+What are some common distance metrics in clustering?,"Common metrics include Euclidean, Manhattan, cosine similarity...",Medium
+Explain hierarchical clustering.,Hierarchical clustering creates nested clusters...,Medium
+"What is DBSCAN, and how does it differ from k-means?",DBSCAN identifies clusters with arbitrary shapes...,Medium
+What is time-series forecasting?,Time-series forecasting predicts future values...,Medium
+Explain the ARIMA model.,The ARIMA model is used for analyzing time-series data...,Hard
+"What are RNNs, and where are they used?",RNNs are used for sequential data...,Medium
+What is the difference between RNN and LSTM?,LSTMs are a type of RNN that handles long-term dependencies...,Hard
+What is the purpose of an embedding layer in NLP?,The embedding layer represents data in a dense format...,Medium
+What is the bag-of-words model?,The bag-of-words model converts text to numerical features...,Easy
+Explain the TF-IDF vectorization technique.,TF-IDF assigns weights to terms based on importance...,Medium
+What is the difference between a shallow and deep neural network?,"Shallow networks have fewer layers, deep networks have many...",Hard
+"What is transfer learning, and why is it beneficial?",Transfer learning reuses models for new tasks...,Medium
+What are word embeddings?,Word embeddings map words to vector space...,Medium
+What is the significance of attention mechanisms in transformers?,Attention mechanisms help focus on relevant data...,Hard
+Explain the concept of tokenization in NLP.,Tokenization splits text into smaller units...,Medium
+What is a language model?,A language model predicts the likelihood of word sequences...,Easy
+What is the purpose of stemming and lemmatization?,Stemming and lemmatization reduce words to their base forms...,Medium
