@@ -377,7 +377,7 @@ const Home = () => {
     {/* Right: Viedo Section */}
     <div className="w-full hidden lg:block  lg:w-1/3 mt-12 lg:mt-0 justify-center">
       <video
-        src="../src/assets/TransformingBusiness.mp4"
+        src="../public/videos/TransformingBusiness.mp4"
         alt="Illustration"
         className="w-4/4 rounded-full mt-64 mr-28 max-w-sm  shadow-2xl shadow-[#7e95dd] hover:shadow-3xl hover:shadow-[#6d77ff] ml-24 transform transition-transform duration-300 hover:scale-105"
         autoPlay

@@ -68,7 +68,7 @@ const Login = () => {
           {/* Foreground Video */}
   
   <video
-     src="../src/assets/signup3.mp4" 
+     src="../public/videos/signup3.mp4" 
   autoPlay
   muted
   loop

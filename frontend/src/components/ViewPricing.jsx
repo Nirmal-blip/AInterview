@@ -88,7 +88,7 @@ const ViewPricing = () => {
         {/* Enhanced Cyberpunk Background */}
         <div className="absolute inset-0">
           {/* Background Video */}
-         <video src="../src/assets/pricing.mp4" autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover blur-md" ></video>
+         <video src="../public/videos/pricing.mp4" autoPlay muted loop playsInline className="absolute inset-0 w-full h-full object-cover blur-md" ></video>
         </div>
 
         <Toaster />

@@ -92,7 +92,7 @@ const Signup = () => {
           {/* Foreground Video */}
   
   <video
-     src="../src/assets/login.mp4" 
+     src="../public/videos/login.mp4" 
   autoPlay
   muted
   loop

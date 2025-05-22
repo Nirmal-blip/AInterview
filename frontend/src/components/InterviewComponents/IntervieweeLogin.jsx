@@ -63,7 +63,7 @@ const IntervieweeLogin = () => {
           {/* Foreground Video */}
 
   <video
-     src="../src/assets/IntervieweeLogin.mp4" 
+     src="../public/videos/IntervieweeLogin.mp4" 
   autoPlay
   muted
   loop

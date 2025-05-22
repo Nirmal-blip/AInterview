@@ -164,7 +164,7 @@ function ImportStudentsPage() {
           {/* Foreground Video */}
   
   <video
-     src="../src/assets/ImportCsv.mp4" 
+     src="../public/videos/ImportCsv.mp4" 
   autoPlay
   muted
   loop
